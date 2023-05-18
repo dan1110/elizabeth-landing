@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'DINAlternate';
+    src: url('DINAlternate-Bold.woff2') format('woff2'),
+        url('DINAlternate-Bold.woff') format('woff');
+    font-weight: none;
+    font-style: normal;
+    font-display: fallback;
+}
